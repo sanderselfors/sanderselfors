@@ -4,7 +4,11 @@ I'm Sander Selfors, a front-end developer based in Oslo.
 
 ## About Me🙋🏻‍♂️
 
-I am a front-end developer student with a strong passion for web development and design. Throughout my journey as a student, I have gained proficiency in HTML, CSS, and JavaScript. I enjoy creating interactive and visually appealing user experiences. My design skills, honed with tools like Figma, enable me to transform ideas into aesthetically pleasing and functional designs.
+As a recently graduated front-end developer student from Noroff with two years of intensive training and hands-on experience. My journey has taken me through the depths of web development, where I've gained proficiency in HTML, CSS, JavaScript, and modern frameworks like React. I enjoy creating interactive and visually appealing user experiences, leveraging tools like Tailwind CSS for efficient styling.
+
+During my studies, I also honed my skills in using APIs to build dynamic and responsive applications. My design abilities, developed with tools like Figma, allow me to transform ideas into aesthetically pleasing and functional designs. Notably, I was honored with the Golden Egg Award for "Best Student Work" for my project "ExpandMedia" in my first year, highlighting my dedication and passion for web development.
+
+Feel free to explore my projects and see how I bring ideas to life through code!
 
 ## Projects 💻
 
